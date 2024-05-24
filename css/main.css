@@ -1,0 +1,32 @@
+@charset "UTF-8";
+ /* 全体 */
+ html {
+ /* font-size: 10px; */
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ /* メイン */
+ main {
+ text-align: center;
+ }
+
+ #service-overview {
+ padding: 10px;
+ margin: 30px auto;
+ color: #5d627b;
+ background: white;
+ border-top: solid 5px #FBDB0E;
+ box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+ max-width: 650px;
+ }
+
+ #service-details {
+ padding: 10px;
+ margin: auto;
+ color: #5d627b;
+ background: white;
+
+ border-top: solid 5px #FBDB0E;
+ box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+ max-width: 650px;
+}
